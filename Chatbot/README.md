@@ -22,7 +22,7 @@ dynamically fetched.
 1. Start with a simple hello message.
 ![App Screenshot](https://user-images.githubusercontent.com/72888835/202276735-51f91357-168d-472e-9fa3-af5ec3746ae4.png)
 
-2. Select the option you want to choose.
+2. Select the desired option.
 ![App Screenshot](https://user-images.githubusercontent.com/72888835/202276838-37ab31ce-6d61-4f4f-8429-954f3139f1c8.png)
 
 3. Bot will display the selected option.
